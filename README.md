@@ -1,2 +1,1 @@
-# IPCA
-Introductory Programming Course Assignments Corpus (IPCA)
+# Introductory Programming Course Assignments Corpus (IPCA)
